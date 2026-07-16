@@ -1,100 +1,89 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:14b8a6&text=Lucas%20Brown&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20builder%20creating%20useful,%20real-time,%20product-focused%20software&descAlignY=58&animation=fadeIn" alt="Lucas Brown profile banner" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Lucas Brown - full-stack builder" width="100%" />
 
   <p>
-    <a href="mailto:brownygg@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-brownygg%40icloud.com-0f172a?style=for-the-badge&logo=icloud&logoColor=white"></a>
     <a href="https://github.com/Browny01"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Browny01-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-    <img alt="Focus" src="https://img.shields.io/badge/Focus-Real--time%20apps-14b8a6?style=for-the-badge">
+    <a href="https://x.com/itsbrownyy"><img alt="X" src="https://img.shields.io/badge/DM%20me%20on%20X-itsbrownyy-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+    <img alt="Focus" src="https://img.shields.io/badge/Building-products%20%2B%20real--time%20tools-14b8a6?style=for-the-badge">
   </p>
-
 </div>
 
-## Hi, I'm Lucas
+## About
 
-I build practical software with a focus on clean interfaces, real-time features, and products that feel good to use. Most of my work sits around full-stack web apps, live data, sports tools, creator platforms, and AI-assisted workflows.
+I'm Lucas, a full-stack builder focused on clean interfaces, real-time features, and practical products. I like turning ideas into working software quickly, then tightening the details until the product feels sharp.
 
-I like projects where the product idea is clear, the UI matters, and the engineering has to hold up under real interaction.
+Right now I am especially interested in sports data, creator tools, internal product dashboards, and AI-assisted workflows.
 
-## What I Work With
-
-<div align="center">
-
-| Frontend | Backend | Data & Infra | Tools |
-|---|---|---|---|
-| React, Next.js, Vite, TypeScript, Tailwind CSS | Node.js, Express, Python, Socket.io | SQLite, REST APIs, OAuth, Vercel, Railway | Git, CLI apps, SwiftUI, real-time dashboards |
-
-</div>
-
-## Featured Projects
+## Building
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>ProductDeck</h3>
+      <p>A product and business workflow project I am developing privately.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Private%20project-0f172a?style=flat" alt="Private project">
+        <img src="https://img.shields.io/badge/Product%20systems-2563eb?style=flat" alt="Product systems">
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>StreamSpark</h3>
-      <p>Real-time engagement tools for Kick and Twitch streams, including predictions, stream bingo, trivia, live rooms, overlays, and viewer leaderboards.</p>
+      <p>Real-time engagement tools for streamers, including predictions, bingo, trivia, overlays, and live viewer rooms.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb" alt="React">
-        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.io">
+        <img src="https://img.shields.io/badge/Private%20project-0f172a?style=flat" alt="Private project">
+        <img src="https://img.shields.io/badge/Real--time-14b8a6?style=flat" alt="Real-time">
+        <img src="https://img.shields.io/badge/Creator%20tools-8b5cf6?style=flat" alt="Creator tools">
       </p>
-      <a href="https://github.com/Browny01/kickspark">View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>SportPulse</h3>
-      <p>A Python terminal UI for live sports scores, player stats, league standings, timelines, and round-by-round navigation, plus a macOS menu bar app.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/SwiftUI-f05138?style=flat&logo=swift&logoColor=white" alt="SwiftUI">
-        <img src="https://img.shields.io/badge/ESPN%20API-c8102e?style=flat" alt="ESPN API">
-      </p>
-      <a href="https://github.com/Browny01/SportPulseCLI">View repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Bridge</h3>
-      <p>A Next.js app foundation built for modern product workflows, fast iteration, and clean deployment through the Vercel ecosystem.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
-      </p>
-      <a href="https://github.com/Browny01/bridge">View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Nuance / Web</h3>
-      <p>Web product work under the Nuance workspace, focused on polished customer-facing experiences and practical app delivery.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Product%20Design-0f172a?style=flat" alt="Product Design">
-        <img src="https://img.shields.io/badge/Web%20Apps-2563eb?style=flat" alt="Web Apps">
-      </p>
-      <a href="https://github.com/nuance-dev/Web">View repository</a>
     </td>
   </tr>
 </table>
 
-## Current Focus
+## Public Repositories
 
-- Building full-stack apps with real-time interactions and useful dashboards
-- Turning product ideas into working interfaces quickly
-- Exploring sports data, streaming tools, creator products, and AI-assisted workflows
-- Improving the small details that make software feel sharp and reliable
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Browny01/SportPulseCLI">SportPulseCLI</a></h3>
+      <p>A Python terminal UI for live sports scores, player stats, standings, timelines, and round-by-round navigation, plus a macOS menu bar app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/SwiftUI-f05138?style=flat&logo=swift&logoColor=white" alt="SwiftUI">
+        <img src="https://img.shields.io/badge/Sports%20data-c8102e?style=flat" alt="Sports data">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Browny01/ultimate-naughts-and-crosses">Ultimate Naughts and Crosses</a></h3>
+      <p>A small browser game experiment deployed on Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=111111" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+        <a href="https://ultimate-naughts-and-crosses.vercel.app/"><img src="https://img.shields.io/badge/Live%20site-14b8a6?style=flat" alt="Live site"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## GitHub Snapshot
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Browny01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Lucas Brown GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Browny01&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
-## Find Me
-
-I'm always interested in useful software, clean product ideas, and projects that need both design taste and engineering depth.
+## Stack
 
 <p>
-  <a href="mailto:brownygg@icloud.com">Email me</a>
-  |
-  <a href="https://github.com/Browny01?tab=repositories">Browse my repositories</a>
+  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat&logo=tailwindcss&logoColor=38bdf8" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.io">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
 </p>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Browny01&theme=github_dark" alt="GitHub profile details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Browny01&theme=github_dark" alt="Repositories per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Browny01&theme=github_dark" alt="GitHub stats" width="49%" />
+</div>
+
+## Contact
+
+Best place to reach me is X: <a href="https://x.com/itsbrownyy">@itsbrownyy</a>.
